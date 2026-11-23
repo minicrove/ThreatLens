@@ -1,0 +1,5 @@
+The requirements.txt file specifies the dependencies for a Python project. It includes the following packages with their respective version constraints:
+pandas>=2.2,<4
+streamlit>=1.40,<2
+plotly>=5.24,<7
+pytest>=8,<10
