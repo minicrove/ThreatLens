@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🛡️ ThreatLens — Security Log Analyzer
 
 A Python + Streamlit educational security monitoring dashboard that analyzes authentication logs and flags repeated failed logins within a sliding time window.
@@ -41,4 +40,4 @@ No license is granted until a license file is added. Add a license if you wish t
 =======
 # ThreatLens
 ThreatLens is an interactive cybersecurity dashboard designed to analyze authentication logs, detect suspicious login activities, and visualize potential security threats.
->>>>>>> c1a2f36717f5beb6c5c716dea1bbb8da5d45b28b
+
